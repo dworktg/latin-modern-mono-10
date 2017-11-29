@@ -1,0 +1,11 @@
+{
+  "name": "latin-modern-mono-10",
+  "version": "1.0.0",
+  "description": "Latin Modern Mono 10",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dworktg/latin-modern-mono-10.git"
+  },
+  "author": "dworktg",
+  "license": "GUST"
+}

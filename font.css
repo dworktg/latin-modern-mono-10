@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Latin Modern Mono 10';
+    font-weight: normal;
+    font-style: normal;
+    src: url('./fonts/lmmono10regular.eot');
+    src: url('./fonts/lmmono10regular.eot') format('embedded-opentype'),
+         url('./fonts/lmmono10regular.woff2') format('woff2'), url('./fonts/lmmono10regular.woff') format('woff'),
+         url('./fonts/lmmono10regular.ttf') format('truetype'), url('./fonts/lmmono10regular.svg#lmmono10regular') format('svg');
+}
